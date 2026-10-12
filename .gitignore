@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/*
+!results/.gitkeep
+data/*
+!data/README.md
+.tile_cache/
